@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Marketing Analytics",
+    "issuer": "NPTEL",
+    "badge": "Elite + Gold",
+    "score": "91/100",
+    "period": "Jan – Apr 2026",
+    "initial": "N",
+    "link": null
+  },
+  {
+    "title": "Introduction to Machine Learning",
+    "issuer": "NPTEL",
+    "badge": "Certified",
+    "score": null,
+    "period": "Jan – Apr 2025",
+    "initial": "N",
+    "link": null
+  },
+  {
+    "title": "DevOps, Agile & Design Thinking",
+    "issuer": "IBM · Adroit Prolearn",
+    "badge": "Certified",
+    "score": null,
+    "period": null,
+    "initial": "IBM",
+    "link": null
+  },
+  {
+    "title": "Getting Started with Serverless",
+    "issuer": "AWS Educate",
+    "badge": "Certified",
+    "score": null,
+    "period": null,
+    "initial": "AWS",
+    "link": null
+  },
+  {
+    "title": "Getting Started with Storage",
+    "issuer": "AWS Educate",
+    "badge": "Certified",
+    "score": null,
+    "period": null,
+    "initial": "AWS",
+    "link": null
+  },
+  {
+    "title": "Getting Started with Networking",
+    "issuer": "AWS Educate",
+    "badge": "Certified",
+    "score": null,
+    "period": null,
+    "initial": "AWS",
+    "link": null
+  }
+]

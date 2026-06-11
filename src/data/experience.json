@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Web Developer Team Lead",
+    "org": "Null Student Chapter, VIT Bhopal",
+    "period": "Jan 2025 – Present",
+    "images": ["/Null1.JPG", "/Null2.JPG", "/Null3.JPG", "/Null4.jpeg"],
+    "points": [
+      "Built the chapter's full website from scratch in Next.js — landing page, team directory with profiles for leads, co-leads, president, and secretary.",
+      "Led and managed the dev team across feature development, code reviews, and deployments.",
+      "Engineered the CTF platform backend to handle 10,000+ HTTP requests with zero downtime across both events.",
+      "Managed technical operations for Hacksecure CTF and Cyber Carnival CTF — each with 200+ participants."
+    ]
+  },
+  {
+    "role": "Technical Member",
+    "org": "BashCraft Club, VIT Bhopal",
+    "period": "Nov 2024 – Present",
+    "images": ["/BashCraft1.jpeg"],
+    "points": [
+      "Contributed to the club's landing page and assisted with technical coordination for club workshops.",
+      "Authored an article for the BashCraft newsletter — Linux 101: A Beginner's Guide to Linux."
+    ]
+  }
+]

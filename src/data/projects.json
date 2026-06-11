@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Cyber CTF Platform",
+    "description": "Production-grade Capture the Flag platform with admin-controlled challenge pipeline, OTP-based authentication, per-team Dockerized instances, and real-time leaderboards.",
+    "tags": [
+      { "name": "Next.js", "icon": "SiNextdotjs" },
+      { "name": "Node.js", "icon": "SiNodedotjs" },
+      { "name": "MongoDB", "icon": "SiMongodb" },
+      { "name": "Docker", "icon": "SiDocker" },
+      { "name": "Socket.io", "icon": "SiSocketdotio" },
+      { "name": "JWT", "icon": "SiJsonwebtokens" }
+    ],
+    "stat": "200+ participants · Zero downtime",
+    "github": "https://github.com/umair-moon-malik",
+    "live": null
+  },
+  {
+    "title": "Xero Brokerage",
+    "description": "Full-stack real estate platform with multi-category property listings, Cloudinary image uploads, and session-based authentication. Mobile-first responsive design.",
+    "tags": [
+      { "name": "Next.js", "icon": "SiNextdotjs" },
+      { "name": "MongoDB", "icon": "SiMongodb" },
+      { "name": "Cloudinary", "icon": "SiCloudinary" }
+    ],
+    "stat": "Live in production",
+    "github": null,
+    "live": "https://xerobrokerage.in"
+  },
+  {
+    "title": "InnoVIT",
+    "description": "Collaborative academic platform for university students with threaded discussions, resource sharing, and structured doubt resolution.",
+    "tags": [
+      { "name": "React.js", "icon": "SiReact" },
+      { "name": "Express.js", "icon": "SiExpress" },
+      { "name": "Node.js", "icon": "SiNodedotjs" },
+      { "name": "MongoDB", "icon": "SiMongodb" }
+    ],
+    "stat": "Live in production",
+    "github": null,
+    "live": "https://innovit.onrender.com"
+  }
+]

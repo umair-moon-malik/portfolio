@@ -1,0 +1,43 @@
+[
+  {
+    "category": "Frontend",
+    "items": [
+      { "name": "Next.js", "icon": "SiNextdotjs" },
+      { "name": "React.js", "icon": "SiReact" },
+      { "name": "Tailwind CSS", "icon": "SiTailwindcss" },
+      { "name": "TypeScript", "icon": "SiTypescript" }
+    ]
+  },
+  {
+    "category": "Backend",
+    "items": [
+      { "name": "Node.js", "icon": "SiNodedotjs" },
+      { "name": "Socket.io", "icon": "SiSocketdotio" }
+    ]
+  },
+  {
+    "category": "Databases & Cloud",
+    "items": [
+      { "name": "MongoDB", "icon": "SiMongodb" },
+      { "name": "AWS", "icon": "FaAws" }
+    ]
+  },
+  {
+    "category": "Languages",
+    "items": [
+      { "name": "JavaScript", "icon": "SiJavascript" },
+      { "name": "Python", "icon": "SiPython" },
+      { "name": "C++", "icon": "SiCplusplus" },
+      { "name": "Java", "icon": "FaJava" }
+    ]
+  },
+  {
+    "category": "DevOps & Tools",
+    "items": [
+      { "name": "Docker", "icon": "SiDocker" },
+      { "name": "Git", "icon": "SiGit" },
+      { "name": "Linux", "icon": "SiLinux" },
+      { "name": "Postman", "icon": "SiPostman" }
+    ]
+  }
+]
