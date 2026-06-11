@@ -23,7 +23,7 @@ export default function Page() {
           </h1>
 
           <p className="mt-4 font-inter text-red-400 leading-relaxed">
-            I'm currently redesigning this page. In the meantime, you can view
+            I&apos;m currently redesigning this page. In the meantime, you can view
             all featured projects on the homepage.
           </p>
 

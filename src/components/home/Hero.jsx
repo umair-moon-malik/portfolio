@@ -16,7 +16,7 @@ export default function Hero() {
         className="text-zinc-200 text-sm font-mono mb-3 tracking-widest uppercase"
         {...fadeUp(0.1)}
       >
-        Hi, I'm
+        Hi, I&apos;m
       </motion.p>
 
       <motion.h1
