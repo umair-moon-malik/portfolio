@@ -16,7 +16,7 @@ export default function Experience() {
           transition={{ duration: 0.5, delay: 0.2, ease: "easeOut" }}
         >
 
-          <Heading heading="Experience" />
+          <Heading heading="Positions of Responsibility" />
 
           <div className="flex flex-col gap-6">
             {experience.map((exp) => (
@@ -24,7 +24,6 @@ export default function Experience() {
                 key={exp.role}
                 className="relative p-6 border border-white/5 bg-white/3 backdrop-blur-sm hover:border-teal-400/20 hover:bg-white/[0.06] transition-all duration-300"
               >
-                {/* Top row */}
                 <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-1 mb-4">
                   <div>
                     <h3 className="text-base font-bold font-syne text-zinc-100">
@@ -39,7 +38,6 @@ export default function Experience() {
                   </span>
                 </div>
 
-                {/* Divider */}
                 <div className="w-full h-px bg-white/5 mb-4" />
 
                 {exp.images.length > 0 && (
@@ -59,7 +57,6 @@ export default function Experience() {
                   </div>
                 )}
 
-                {/* Points */}
                 <ul className="flex flex-col gap-2">
                   {exp.points.map((point, i) => (
                     <li
